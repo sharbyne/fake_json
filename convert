@@ -1,0 +1,57 @@
+Array
+(
+    [0] => Array
+        (
+            [PRODUCT_ID] => 1
+            [PRODUCT_NAME] => 500
+            [BRAND] => Red Horse
+            [ITEM_TYPE] => Beverage
+            [QUANTITY] => 12
+            [MANUFACTURING_DATE] => 0000-00-00
+            [EXPIRATION_DATE] => 0000-00-00
+            [PRODUCT_DESCRIPTION] => ------
+            [UNIT_PRICE] => 50.00
+            [UNIT_SOLD] => 10
+            [UNIT_COST] => 12.00
+            [TOTAL_REVENUE] => 10000.00
+            [TOTAL_COST] => 1000.00
+            [TOTAL_PROFIT] => 10000.00
+        )
+
+    [1] => Array
+        (
+            [PRODUCT_ID] => 2
+            [PRODUCT_NAME] => -----
+            [BRAND] => ------
+            [ITEM_TYPE] => -----
+            [QUANTITY] => 1
+            [MANUFACTURING_DATE] => 2000-09-09
+            [EXPIRATION_DATE] => 2001-09-09
+            [PRODUCT_DESCRIPTION] => -------
+            [UNIT_PRICE] => 90.00
+            [UNIT_SOLD] => 90
+            [UNIT_COST] => 90.00
+            [TOTAL_REVENUE] => 9090.00
+            [TOTAL_COST] => 90.00
+            [TOTAL_PROFIT] => 90.00
+        )
+
+    [2] => Array
+        (
+            [PRODUCT_ID] => 3
+            [PRODUCT_NAME] => Fishda
+            [BRAND] => 
+            [ITEM_TYPE] => 
+            [QUANTITY] => 0
+            [MANUFACTURING_DATE] => 0000-00-00
+            [EXPIRATION_DATE] => 0000-00-00
+            [PRODUCT_DESCRIPTION] => 
+            [UNIT_PRICE] => 0.00
+            [UNIT_SOLD] => 0
+            [UNIT_COST] => 0.00
+            [TOTAL_REVENUE] => 0.00
+            [TOTAL_COST] => 0.00
+            [TOTAL_PROFIT] => 0.00
+        )
+
+)
